@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Space Art</string>
+
+<!--    Art String Resources -->
+    <string name="astronaut_in_the_moon">Astronaut in the moon.</string>
+    <string name="shooting_start_sunset">Shooting start with a sunset.</string>
+    <string name="space_rocket">Space rocket up close.</string>
+    <string name="shooting_starts">Many shooting starts.</string>
+    <string name="space_launch">The launch of a rocket at night.</string>
+    <string name="space_rocket_sky">Space rocket cruising trough the sky.</string>
+    <string name="starry_sky">Sky full of starts</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+</resources>
